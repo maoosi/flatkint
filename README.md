@@ -8,7 +8,7 @@ Flatkint is a simple flat theme for Kint, the debugging helper for PHP developer
 
 ## Design ##
 
-![Screen Shot!](screenshot.png)
+![Screen Shot!](screenshot.jpg)
 
 ## Installation ##
 
