@@ -16,3 +16,7 @@ Flatkint is a Kint theme.
 
 1. Placer le fichier `flatkint.css` fourni, à l'intérieur du répertoire `kint/view/inc/`
 2. Préciser dans votre fichier config.php le paramètre suivant: `$_kintSettings['theme'] = 'flatkint';`
+
+## Support ##
+
+For support and feature request, please [contact us here](http://www.devevery.com).
