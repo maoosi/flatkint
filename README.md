@@ -14,8 +14,8 @@ Flatkint is a simple flat theme for Kint, the debugging helper for PHP developer
 
 Flatkint is a Kint theme.
 
-1. Placer le fichier `flatkint.css` fourni, à l'intérieur du répertoire `kint/view/inc/`
-2. Préciser dans votre fichier config.php le paramètre suivant: `$_kintSettings['theme'] = 'flatkint';`
+1. Put `flatkint.css` file inside the following directory : `kint/view/inc/`
+2. Specify the following parameter into your `config.php` file : `$_kintSettings['theme'] = 'flatkint';`
 
 ## Support ##
 
